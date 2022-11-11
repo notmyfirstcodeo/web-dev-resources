@@ -2,7 +2,7 @@
 
 A collection of resources for people who have just started learning web development. Maybe even something in there for the more experienced developers.
 
-#### Please read [`contributing guidelines`](./contributing.md) before submitting new resources.
+## Contributing
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 
@@ -12,11 +12,9 @@ A collection of resources for people who have just started learning web developm
 
 <!-- Add dropdown hidden sections for each of the points with a brief description about each one -->
 
-## Contributing
+If there's anything we've missed, or you want to add more, then read our [`contributing guidelines`](./CONTRIBUTING.md)
 
 **Any resource we missed out on?**
-
-**What are you waiting for? Go ahead and raise a Pull Request and we'll merge it in no time (Conditions Apply 😁)**
 
 ## Learning Pathway
 
