@@ -1,8 +1,9 @@
 {
-  "projectName": "all-contributors",
-  "projectOwner": "all-contributors",
+  "projectName": "web-dev-resources",
+  "projectOwner": "notMyFirstCodeo"
   "repoType": "github",
   "repoHost": "https://github.com",
+
   "files": [
     "README.md"
   ],
@@ -22,4 +23,16 @@
   "linkToUsage": true,
   "skipCi": true,
   "contributors": []
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "sf-adams",
+      "name": "Sam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35069870?v=4",
+      "profile": "https://www.sf-adams.com/",
+      "contributions": [
+        "content"
+      ]
+    }
+  ],
 }
