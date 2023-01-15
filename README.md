@@ -1,10 +1,10 @@
 # Web Dev Resources
-
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-Beginner or veteran, there's always more to learn.
+Beginner or veteran, there's always more to learn. Kevin Powell is King
 
 ## Contributing
 
