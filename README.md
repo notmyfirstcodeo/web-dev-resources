@@ -22,8 +22,6 @@ This is not just another list! At notMyFirstCodeo we want everyone to get involv
 - [Start Here](#start-here)
 - [HTML & CSS](#html--css)
 - [JavaScript](#javascript)
-- [Free Learning Platforms](#free-learning-platforms)
-- [Paid Learning Platforms](#paid-learning-platforms)
 
 ## HTML & CSS
 
