@@ -1,9 +1,8 @@
 {
   "projectName": "web-dev-resources",
-  "projectOwner": "notMyFirstCodeo"
+  "projectOwner": "notMyFirstCodeo",
   "repoType": "github",
   "repoHost": "https://github.com",
-
   "files": [
     "README.md"
   ],
@@ -22,7 +21,6 @@
   },
   "linkToUsage": true,
   "skipCi": true,
-  "contributors": []
   "commitConvention": "angular",
   "contributors": [
     {
@@ -34,5 +32,5 @@
         "content"
       ]
     }
-  ],
+  ]
 }
