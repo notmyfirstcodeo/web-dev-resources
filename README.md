@@ -137,7 +137,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/O-Marsters-1997"><img src="https://avatars.githubusercontent.com/u/72571979?v=4?s=100" width="100px;" alt="O-Marsters-1997"/><br /><sub><b>O-Marsters-1997</b></sub></a><br /><a href="https://github.com/notMyFirstCodeo/web-dev-resources/commits?author=O-Marsters-1997" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.sf-adams.com/"><img src="https://avatars.githubusercontent.com/u/35069870?v=4?s=100" width="100px;" alt="Sam"/><br /><sub><b>Sam</b></sub></a><br /><a href="https://github.com/notMyFirstCodeo/web-dev-resources/commits?author=sf-adams" title="Documentation">📖</a> <a href="#content-sf-adams" title="Content">🖋</a> <a href="#maintenance-sf-adams" title="Maintenance">🚧</a></td>
+  <td align="center" valign="top" width="14.28%"><a href="https://github.com/O-Marsters-1997"><img src="https://avatars.githubusercontent.com/u/72571979?v=4?s=100" width="100px;" alt="O-Marsters-1997"/><br /><sub><b>O-Marsters-1997</b></sub></a><br /><a href="https://github.com/notMyFirstCodeo/web-dev-resources/commits?author=O-Marsters-1997" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
