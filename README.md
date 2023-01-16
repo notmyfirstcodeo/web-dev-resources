@@ -21,7 +21,7 @@
   <p align="center">
     This repository is a <em>collection of resources</em> for Junior Developers to bookmark. It includes curated links to tutorials, documentation, and other materials to help improving skills. There are clear guidelines for contributing to the repository, which include forking, cloning, and submitting a pull request with any new resources you would like to share. Join our community and help Junior Developers level up their skills!
     <br />
-    <a href="https://github.com/notMyFirstCodeo/web-dev-resources"><strong>How you can help »</strong></a>
+    <a href="https://github.com/notMyFirstCodeo/web-dev-resources/blob/main/CONTRIBUTING.md"><strong>How to contribute »</strong></a>
     <br />
     <br />
     <a href="https://github.com/notMyFirstCodeo/web-dev-resources/issues">Report Issue</a>
@@ -29,12 +29,6 @@
     <a href="https://github.com/notMyFirstCodeo/web-dev-resources/issues">Request Feature</a>
   </p>
 </div>
-
-<!-- CONTRIBUTING -->
-
-## Contributing
-
-This is not just another list! At `NMFC` we want everyone to get involved. If you find a good resource, read our [contributing guidelines](./CONTRIBUTING.md) and help this grow. Don't forget to give the project a star so that others can find it too!
 
 <!-- TABLE OF CONTENTS -->
 
