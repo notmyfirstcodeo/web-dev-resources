@@ -1,13 +1,10 @@
 {
   "projectName": "web-dev-resources",
   "projectOwner": "notMyFirstCodeo",
-  "repoType": "github",
-  "repoHost": "https://github.com",
   "files": [
     "README.md"
   ],
   "imageSize": 100,
-  "commit": false,
   "contributors": [
     {
       "login": "sf-adams",
@@ -15,7 +12,9 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/35069870?v=4",
       "profile": "https://www.sf-adams.com/",
       "contributions": [
-        "content"
+        "doc",
+        "content",
+        "maintenance"
       ]
     },
     {
