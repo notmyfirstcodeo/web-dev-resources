@@ -1,34 +1,82 @@
-# Web Dev Resources
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
+<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
+<a id="readme-top"></a>
 
-Beginner or veteran, there's always more to learn. Kevin Powell is King
+<!-- PROJECT SHIELDS -->
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/notMyFirstCodeo/web-dev-resources">
+    <img src="images/logo.png" alt="Logo" width="100" height="100">
+  </a>
+
+<h3 align="center">Web Dev Resources</h3>
+
+  <p align="center">
+    This repository is a <em>collection of resources</em> for Junior Developers to bookmark. It includes curated links to tutorials, documentation, and other materials to help improving skills. There are clear guidelines for contributing to the repository, which include forking, cloning, and submitting a pull request with any new resources you would like to share. Join our community and help Junior Developers level up their skills!
+    <br />
+    <a href="https://github.com/notMyFirstCodeo/web-dev-resources"><strong>How you can help »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/notMyFirstCodeo/web-dev-resources/issues">Report Issue</a>
+    ·
+    <a href="https://github.com/notMyFirstCodeo/web-dev-resources/issues">Request Feature</a>
+  </p>
+</div>
+
+<!-- CONTRIBUTING -->
 
 ## Contributing
 
-This is not just another list! At notMyFirstCodeo we want everyone to get involved. If you find a good resource, read our [contributing guidelines](./CONTRIBUTING.md) and help this grow!
+This is not just another list! At notMyFirstCodeo we want everyone to get involved. If you find a good resource, read our [contributing guidelines](./CONTRIBUTING.md) and help this grow. Don't forget to give the project a star so that others can find it too!
 
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-
-<!-- Add dropdown hidden sections for each of the points with a brief description about each one -->
+<!-- TABLE OF CONTENTS -->
 
 ## Table of Contents
 
-- [Start Here](#start-here)
-- [HTML & CSS](#html--css)
-- [JavaScript](#javascript)
+<details>
+  <summary>Click to expand</summary>
+  <ul>
+    <li>
+      <a href="#html">HTML</a>
+    </li>
+    <li>
+      <a href="#css">CSS</a>
+    </li>
+    <li>
+      <a href="#javascript">JavaScript</a>
+    </li>
+    <li>
+      <a href="#git">Git</a>
+    </li>
+    <li>
+      <a href="#frameworks">Frameworks</a>
+    </li>
+    <li>
+      <a href="#open-source">Open Source</a>
+    </li>
+    <li>
+      <a href="#additional-resources">Additional Resources</a>
+      <ul>
+        <li><a href="#podcasts">Podcasts</a></li>
+      </ul>
+    </li>
+  </ul>
+</details>
 
-## HTML & CSS
+## HTML
 
 > HTML and CSS are the foundations you need to begin your journey as a web developer. You'll use HTML to define the structure, and CSS to add the style. The resources below will help you get there.
 
-<details><summary>SEE RESOURCES</summary>
+<details><summary>Click to expand</summary>
 <br>
 <p>
 
@@ -65,47 +113,40 @@ This is not just another list! At notMyFirstCodeo we want everyone to get involv
 | [HTML and HTML5 Interview Questions](https://www.interviewbit.com/html-interview-questions/)      | A Complete list of HTML Interview Questions to help you ace your interview.                                                     |
 
 </p>
-
-<div align="right">
-    <b><a href="#table-of-contents">Back To Top</a></b>
-</div>
+<p align="right">(<a href="#readme-top">Back to top ⬆</a>)</p>
 </details>
 
-## Contributors
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+<!-- [contributors-shield]: https://img.shields.io/github/contributors/notMyFirstCodeo/web-dev-resources.svg?style=for-the-badge -->
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.sf-adams.com/"><img src="https://avatars.githubusercontent.com/u/35069870?v=4" width="100px;" alt=""/><br /><sub><b>Sam</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/O-Marsters-1997"><img src="https://avatars.githubusercontent.com/u/72571979?v=4" width="100px;" alt=""/><br /><sub><b>O-Marsters-1997</b></sub></a></td>
-    </tr>
-  </tbody>
-  <tfoot>
-    <tr>
-      <td align="center" size="13px" colspan="7">
-        <img src="https://raw.githubusercontent.com/all-contributors/all-contributors-cli/1b8533af435da9854653492b1327a23a4dbd0a10/assets/logo-small.svg">
-          <a href="https://all-contributors.js.org/docs/en/bot/usage">Add your contributions</a>
-        </img>
-      </td>
-    </tr>
-  </tfoot>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+[contributors-shield]: https://img.shields.io/github/all-contributors/notMyFirstCodeo/web-dev-resources.svg?style=for-the-badge
+[contributors-url]: https://github.com/notMyFirstCodeo/web-dev-resources/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/notMyFirstCodeo/web-dev-resources.svg?style=for-the-badge
+[forks-url]: https://github.com/notMyFirstCodeo/web-dev-resources/network/members
+[stars-shield]: https://img.shields.io/github/stars/notMyFirstCodeo/web-dev-resources.svg?style=for-the-badge
+[stars-url]: https://github.com/notMyFirstCodeo/web-dev-resources/stargazers
+[issues-shield]: https://img.shields.io/github/issues/notMyFirstCodeo/web-dev-resources.svg?style=for-the-badge
+[issues-url]: https://github.com/notMyFirstCodeo/web-dev-resources/issues
+[license-shield]: https://img.shields.io/github/license/notMyFirstCodeo/web-dev-resources.svg?style=for-the-badge
+[license-url]: https://github.com/notMyFirstCodeo/web-dev-resources/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/sf-adams
+[product-screenshot]: images/screenshot.png
+[next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[next-url]: https://nextjs.org/
+[react.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[react-url]: https://reactjs.org/
+[vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
+[vue-url]: https://vuejs.org/
+[angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
+[angular-url]: https://angular.io/
+[svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
+[svelte-url]: https://svelte.dev/
+[laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
+[laravel-url]: https://laravel.com
+[bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+[bootstrap-url]: https://getbootstrap.com
+[jquery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
+[jquery-url]: https://jquery.com
