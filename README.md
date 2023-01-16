@@ -36,13 +36,22 @@
 
 ## Contributing
 
-This is not just another list! At notMyFirstCodeo we want everyone to get involved. If you find a good resource, read our [contributing guidelines](./CONTRIBUTING.md) and help this grow. Don't forget to give the project a star so that others can find it too!
+This is not just another list! At `NMFC` we want everyone to get involved. If you find a good resource, read our [contributing guidelines](./CONTRIBUTING.md) and help this grow. Don't forget to give the project a star so that others can find it too!
 
 <!-- TABLE OF CONTENTS -->
 
 ## Table of Contents
 
-<details>
+- [HTML](#html)
+- [CSS](#css)
+- [JavaScript](#javascript)
+- [Git](#git)
+- [Frameworks](#frameworks)
+- [Open Source](#open-source)
+- [Additional Resources](#additional-resources)
+  - [Podcasts](#podcasts)
+
+<!-- <details>
   <summary>Click to expand</summary>
   <ul>
     <li>
@@ -70,7 +79,7 @@ This is not just another list! At notMyFirstCodeo we want everyone to get involv
       </ul>
     </li>
   </ul>
-</details>
+</details> -->
 
 ## HTML
 
@@ -116,6 +125,37 @@ This is not just another list! At notMyFirstCodeo we want everyone to get involv
 <p align="right">(<a href="#readme-top">Back to top ⬆</a>)</p>
 </details>
 
+## Contributors
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.sf-adams.com/"><img src="https://avatars.githubusercontent.com/u/35069870?v=4" width="100px;" alt=""/><br /><sub><b>Sam</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/O-Marsters-1997"><img src="https://avatars.githubusercontent.com/u/72571979?v=4" width="100px;" alt=""/><br /><sub><b>O-Marsters-1997</b></sub></a></td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td align="center" size="13px" colspan="7">
+        <img src="https://raw.githubusercontent.com/all-contributors/all-contributors-cli/1b8533af435da9854653492b1327a23a4dbd0a10/assets/logo-small.svg">
+          <a href="https://all-contributors.js.org/docs/en/bot/usage">Add your contributions</a>
+        </img>
+      </td>
+    </tr>
+  </tfoot>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
@@ -133,20 +173,3 @@ This is not just another list! At notMyFirstCodeo we want everyone to get involv
 [license-url]: https://github.com/notMyFirstCodeo/web-dev-resources/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/sf-adams
-[product-screenshot]: images/screenshot.png
-[next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[next-url]: https://nextjs.org/
-[react.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[react-url]: https://reactjs.org/
-[vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[vue-url]: https://vuejs.org/
-[angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[angular-url]: https://angular.io/
-[svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[svelte-url]: https://svelte.dev/
-[laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[laravel-url]: https://laravel.com
-[bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[bootstrap-url]: https://getbootstrap.com
-[jquery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[jquery-url]: https://jquery.com
