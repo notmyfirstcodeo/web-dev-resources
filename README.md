@@ -133,24 +133,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.sf-adams.com/"><img src="https://avatars.githubusercontent.com/u/35069870?v=4" width="100px;" alt=""/><br /><sub><b>Sam</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/O-Marsters-1997"><img src="https://avatars.githubusercontent.com/u/72571979?v=4" width="100px;" alt=""/><br /><sub><b>O-Marsters-1997</b></sub></a></td>
-    </tr>
-  </tbody>
-  <tfoot>
-    <tr>
-      <td align="center" size="13px" colspan="7">
-        <img src="https://raw.githubusercontent.com/all-contributors/all-contributors-cli/1b8533af435da9854653492b1327a23a4dbd0a10/assets/logo-small.svg">
-          <a href="https://all-contributors.js.org/docs/en/bot/usage">Add your contributions</a>
-        </img>
-      </td>
-    </tr>
-  </tfoot>
-</table>
-
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
