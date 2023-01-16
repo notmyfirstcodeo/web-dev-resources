@@ -1,13 +1,8 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-
 <a id="readme-top"></a>
 
 <!-- PROJECT SHIELDS -->
 
-[![Contributors][contributors-shield]][contributors-url]
+[![All Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
@@ -131,6 +126,7 @@ This is not just another list! At `NMFC` we want everyone to get involved. If yo
 ## Contributors
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
@@ -148,13 +144,17 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
+This project follows the [all-contributors](https://allcontributors.org) specification.
+
+<p align="right">(<a href="#readme-top">Back to top ⬆</a>)</p>
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 <!-- [contributors-shield]: https://img.shields.io/github/contributors/notMyFirstCodeo/web-dev-resources.svg?style=for-the-badge -->
 
-[contributors-shield]: https://img.shields.io/github/all-contributors/notMyFirstCodeo/web-dev-resources.svg?style=for-the-badge
-[contributors-url]: https://github.com/notMyFirstCodeo/web-dev-resources/graphs/contributors
+[contributors-shield]: https://img.shields.io/github/all-contributors/notMyFirstCodeo/web-dev-resources.svg?color=brightgreen&style=for-the-badge
+[contributors-url]: #contributors
 [forks-shield]: https://img.shields.io/github/forks/notMyFirstCodeo/web-dev-resources.svg?style=for-the-badge
 [forks-url]: https://github.com/notMyFirstCodeo/web-dev-resources/network/members
 [stars-shield]: https://img.shields.io/github/stars/notMyFirstCodeo/web-dev-resources.svg?style=for-the-badge
