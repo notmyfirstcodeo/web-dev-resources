@@ -81,14 +81,36 @@
 <br>
 <p>
 
+| Website                                                                                      | Description                                                                                                      |
+| -------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| [freeCodeCamp](https://www.freecodecamp.org/learn)                                           | Free course to learn Web Development.                                                                            |
+| [Interneting Is Hard](https://www.internetingishard.com)                                     | Friendly web development tutorials for complete beginners.                                                       |
+| [Learn to Code HTML & CSS](https://learn.shayhowe.com)                                       | The guide covers a variety of web design and development topics, ranging from beginner to advanced skill levels. |
+| [HTML Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)                   | HTML elements reference by MDN.                                                                                  |
+| [HTML Entity](https://css-tricks.com/snippets/html/glyphs/)                                  | HTML Entity Reference by CSS-Tricks.                                                                             |
+| [HTML Shark](https://html-shark.com)                                                         | Smart moves and dirty tricks for coding websites, effects and elements in HTML.                                  |
+| [Can I Use](https://caniuse.com)                                                             | Up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.  |
+| [BEM](https://9elements.com/bem-cheat-sheet)                                                 | BEM naming cheat sheet.                                                                                          |
+| [Autoprefixer](https://autoprefixer.github.io)                                               | Autoprefixer is a PostCSS plugin which parses your CSS and adds vendor prefixes.                                 |
+| [Placeholder](https://placeholder.com)                                                       | How To Use Our Placeholders. Just specify the image size after our URL and you'll get a placeholder image.       |
+| [DevProjects](https://www.codementor.io/projects/html_css)                                   | Practice your coding skills with free HTML/CSS projects. Projects vary from beginner to advanced level.          |
+| [HTML Cheat Sheet](https://www.interviewbit.com/html-cheat-sheet/)                           | A Complete HTML Cheat Sheet to help you master HTML.                                                             |
+| [HTML and HTML5 Interview Questions](https://www.interviewbit.com/html-interview-questions/) | A Complete list of HTML Interview Questions to help you ace your interview.                                      |
+
+</p>
+<p align="right">(<a href="#readme-top">Back to top ⬆</a>)</p>
+</details>
+
+## CSS
+
+> HTML and CSS are the foundations you need to begin your journey as a web developer. You'll use HTML to define the structure, and CSS to add the style. The resources below will help you get there.
+
+<details><summary>Click to expand</summary>
+<br>
+<p>
+
 | Website                                                                                           | Description                                                                                                                     |
-| ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| [freeCodeCamp](https://www.freecodecamp.org/learn)                                                | Free course to learn Web Development.                                                                                           |
-| [Interneting Is Hard](https://www.internetingishard.com)                                          | Friendly web development tutorials for complete beginners.                                                                      |
-| [Learn to Code HTML & CSS](https://learn.shayhowe.com)                                            | The guide covers a variety of web design and development topics, ranging from beginner to advanced skill levels.                |
-| [HTML Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)                        | HTML elements reference by MDN.                                                                                                 |
-| [HTML Entity](https://css-tricks.com/snippets/html/glyphs/)                                       | HTML Entity Reference by CSS-Tricks.                                                                                            |
-| [HTML Shark](https://html-shark.com)                                                              | Smart moves and dirty tricks for coding websites, effects and elements in HTML.                                                 |
+| ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | --- |
 | [CSS3 Properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)                     | CSS reference by MDN.                                                                                                           |
 | [CSS Reference](https://cssreference.io)                                                          | A free visual guide to CSS.                                                                                                     |
 | [CSS Layout](https://csslayout.io)                                                                | A collection of popular layouts and patterns made with CSS.                                                                     |
@@ -102,16 +124,7 @@
 | [Learn CSS Grid](https://learncssgrid.com)                                                        | A comprehensive guide to help you understand and learn CSS Grid Layout, by Jonathan Suh.                                        |
 | [Can I Use](https://caniuse.com)                                                                  | Up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.                 |
 | [CSS Effects](https://emilkowalski.github.io/css-effects-snippets/)                               | CSS Animations.                                                                                                                 |
-| [Keyframes](https://keyframes.app)                                                                | Create basic or complex CSS @keyframe animations with a visual timeline editor.                                                 |
-| [Animista](https://animista.net)                                                                  | Play with a collection of ready to use CSS animations.                                                                          |
-| [BEM](https://9elements.com/bem-cheat-sheet)                                                      | BEM naming cheat sheet.                                                                                                         |
-| [Autoprefixer](https://autoprefixer.github.io)                                                    | Autoprefixer is a PostCSS plugin which parses your CSS and adds vendor prefixes.                                                |
-| [CSS Formatter](https://www.cleancss.com/css-beautify/)                                           | Online CSS Formatter, CSS Beautifier.                                                                                           |
-| [Placeholder](https://placeholder.com)                                                            | How To Use Our Placeholders. Just specify the image size after our URL and you'll get a placeholder image.                      |
-| [DevProjects](https://www.codementor.io/projects/html_css)                                        | Practice your coding skills with free HTML/CSS projects. Projects vary from beginner to advanced level.                         |
-| [HTML Cheat Sheet](https://www.interviewbit.com/html-cheat-sheet/)                                | A Complete HTML Cheat Sheet to help you master HTML.                                                                            |
-| [CSS Cheat Sheet](https://www.interviewbit.com/css-cheat-sheet/)                                  | Brush up on your CSS Skills with this comprehensive Cheat Sheet.                                                                |
-| [HTML and HTML5 Interview Questions](https://www.interviewbit.com/html-interview-questions/)      | A Complete list of HTML Interview Questions to help you ace your interview.                                                     |
+| [CSS Cheat Sheet](https://www.interviewbit.com/css-cheat-sheet/)                                  | Brush up on your CSS Skills with this comprehensive Cheat Sheet.                                                                |     |
 
 </p>
 <p align="right">(<a href="#readme-top">Back to top ⬆</a>)</p>
