@@ -110,7 +110,7 @@
 <p>
 
 | Website                                                                                           | Description                                                                                                                     |
-| ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | --- |
+| ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
 | [CSS3 Properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)                     | CSS reference by MDN.                                                                                                           |
 | [CSS Reference](https://cssreference.io)                                                          | A free visual guide to CSS.                                                                                                     |
 | [CSS Layout](https://csslayout.io)                                                                | A collection of popular layouts and patterns made with CSS.                                                                     |
@@ -124,7 +124,7 @@
 | [Learn CSS Grid](https://learncssgrid.com)                                                        | A comprehensive guide to help you understand and learn CSS Grid Layout, by Jonathan Suh.                                        |
 | [Can I Use](https://caniuse.com)                                                                  | Up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.                 |
 | [CSS Effects](https://emilkowalski.github.io/css-effects-snippets/)                               | CSS Animations.                                                                                                                 |
-| [CSS Cheat Sheet](https://www.interviewbit.com/css-cheat-sheet/)                                  | Brush up on your CSS Skills with this comprehensive Cheat Sheet.                                                                |     |
+| [CSS Cheat Sheet](https://www.interviewbit.com/css-cheat-sheet/)                                  | Brush up on your CSS Skills with this comprehensive Cheat Sheet.                                                                |  
 
 </p>
 <p align="right">(<a href="#readme-top">Back to top ⬆</a>)</p>
