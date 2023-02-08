@@ -124,7 +124,97 @@
 | [Learn CSS Grid](https://learncssgrid.com)                                                        | A comprehensive guide to help you understand and learn CSS Grid Layout, by Jonathan Suh.                                        |
 | [Can I Use](https://caniuse.com)                                                                  | Up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.                 |
 | [CSS Effects](https://emilkowalski.github.io/css-effects-snippets/)                               | CSS Animations.                                                                                                                 |
-| [CSS Cheat Sheet](https://www.interviewbit.com/css-cheat-sheet/)                                  | Brush up on your CSS Skills with this comprehensive Cheat Sheet.                                                                |  
+| [CSS Cheat Sheet](https://www.interviewbit.com/css-cheat-sheet/)                                  | Brush up on your CSS Skills with this comprehensive Cheat Sheet.                                                                |
+
+</p>
+<p align="right">(<a href="#readme-top">Back to top ⬆</a>)</p>
+</details>
+
+<!-- JAVASCRIPT SECTION -->
+
+## JavaScript
+
+> JS
+
+<details><summary>Click to expand</summary>
+<br>
+<p>
+
+| Website                                            | Description                           |
+| -------------------------------------------------- | ------------------------------------- |
+| [freeCodeCamp](https://www.freecodecamp.org/learn) | Free course to learn Web Development. |
+
+</p>
+<p align="right">(<a href="#readme-top">Back to top ⬆</a>)</p>
+</details>
+
+<!-- GIT SECTION -->
+
+## Git
+
+> HTML and CSS are the foundations you need to begin your journey as a web developer. You'll use HTML to define the structure, and CSS to add the style. The resources below will help you get there.
+
+<details><summary>Click to expand</summary>
+<br>
+<p>
+
+| Website                                            | Description                           |
+| -------------------------------------------------- | ------------------------------------- |
+| [freeCodeCamp](https://www.freecodecamp.org/learn) | Free course to learn Web Development. |
+
+</p>
+<p align="right">(<a href="#readme-top">Back to top ⬆</a>)</p>
+</details>
+
+<!-- FRAMEWORKS SECTION -->
+
+## Frameworks
+
+> HTML and CSS are the foundations you need to begin your journey as a web developer. You'll use HTML to define the structure, and CSS to add the style. The resources below will help you get there.
+
+<details><summary>Click to expand</summary>
+<br>
+<p>
+
+| Website                                            | Description                           |
+| -------------------------------------------------- | ------------------------------------- |
+| [freeCodeCamp](https://www.freecodecamp.org/learn) | Free course to learn Web Development. |
+
+</p>
+<p align="right">(<a href="#readme-top">Back to top ⬆</a>)</p>
+</details>
+
+<!-- OPEN SOURCE SECTION -->
+
+## Open Source
+
+> HTML and CSS are the foundations you need to begin your journey as a web developer. You'll use HTML to define the structure, and CSS to add the style. The resources below will help you get there.
+
+<details><summary>Click to expand</summary>
+<br>
+<p>
+
+| Website                                            | Description                           |
+| -------------------------------------------------- | ------------------------------------- |
+| [freeCodeCamp](https://www.freecodecamp.org/learn) | Free course to learn Web Development. |
+
+</p>
+<p align="right">(<a href="#readme-top">Back to top ⬆</a>)</p>
+</details>
+
+<!-- ADDITIONAL RESOURCES -->
+
+## Additional Resources
+
+> HTML and CSS are the foundations you need to begin your journey as a web developer. You'll use HTML to define the structure, and CSS to add the style. The resources below will help you get there.
+
+<details><summary>Click to expand</summary>
+<br>
+<p>
+
+| Website                                            | Description                           |
+| -------------------------------------------------- | ------------------------------------- |
+| [freeCodeCamp](https://www.freecodecamp.org/learn) | Free course to learn Web Development. |
 
 </p>
 <p align="right">(<a href="#readme-top">Back to top ⬆</a>)</p>
