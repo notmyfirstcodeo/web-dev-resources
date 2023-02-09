@@ -194,9 +194,10 @@
 <br>
 <p>
 
-| Website                                            | Description                           |
-| -------------------------------------------------- | ------------------------------------- |
-| [freeCodeCamp](https://www.freecodecamp.org/learn) | Free course to learn Web Development. |
+| Website                                         | Description                                           |
+| ----------------------------------------------- | ----------------------------------------------------- |
+| [Open Source Guides](https://opensource.guide/) | GitHub's guide to open source                         |
+| [hacktoberfest](https://hacktoberfest.com/)     | Great way to get involved with projects every october |
 
 </p>
 <p align="right">(<a href="#readme-top">Back to top ⬆</a>)</p>
