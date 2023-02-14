@@ -13,7 +13,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/notMyFirstCodeo/web-dev-resources">
-    <img src="images/logo.png" alt="Logo" width="100" height="100">
+    <img src="images/web-dev-resources.png" alt="Logo" width="100" height="100">
   </a>
 
 <h3 align="center">Web Dev Resources</h3>
@@ -43,36 +43,6 @@
 - [Additional Resources](#additional-resources)
   - [Podcasts](#podcasts)
 
-<!-- <details>
-  <summary>Click to expand</summary>
-  <ul>
-    <li>
-      <a href="#html">HTML</a>
-    </li>
-    <li>
-      <a href="#css">CSS</a>
-    </li>
-    <li>
-      <a href="#javascript">JavaScript</a>
-    </li>
-    <li>
-      <a href="#git">Git</a>
-    </li>
-    <li>
-      <a href="#frameworks">Frameworks</a>
-    </li>
-    <li>
-      <a href="#open-source">Open Source</a>
-    </li>
-    <li>
-      <a href="#additional-resources">Additional Resources</a>
-      <ul>
-        <li><a href="#podcasts">Podcasts</a></li>
-      </ul>
-    </li>
-  </ul>
-</details> -->
-
 ## HTML
 
 > HTML and CSS are the foundations you need to begin your journey as a web developer. You'll use HTML to define the structure, and CSS to add the style. The resources below will help you get there.
@@ -81,21 +51,20 @@
 <br>
 <p>
 
-| Website                                                                                      | Description                                                                                                      |
-| -------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| [freeCodeCamp](https://www.freecodecamp.org/learn)                                           | Free course to learn Web Development.                                                                            |
-| [Interneting Is Hard](https://www.internetingishard.com)                                     | Friendly web development tutorials for complete beginners.                                                       |
-| [Learn to Code HTML & CSS](https://learn.shayhowe.com)                                       | The guide covers a variety of web design and development topics, ranging from beginner to advanced skill levels. |
-| [HTML Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)                   | HTML elements reference by MDN.                                                                                  |
-| [HTML Entity](https://css-tricks.com/snippets/html/glyphs/)                                  | HTML Entity Reference by CSS-Tricks.                                                                             |
-| [HTML Shark](https://html-shark.com)                                                         | Smart moves and dirty tricks for coding websites, effects and elements in HTML.                                  |
-| [Can I Use](https://caniuse.com)                                                             | Up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.  |
-| [BEM](https://9elements.com/bem-cheat-sheet)                                                 | BEM naming cheat sheet.                                                                                          |
-| [Autoprefixer](https://autoprefixer.github.io)                                               | Autoprefixer is a PostCSS plugin which parses your CSS and adds vendor prefixes.                                 |
-| [Placeholder](https://placeholder.com)                                                       | How To Use Our Placeholders. Just specify the image size after our URL and you'll get a placeholder image.       |
-| [DevProjects](https://www.codementor.io/projects/html_css)                                   | Practice your coding skills with free HTML/CSS projects. Projects vary from beginner to advanced level.          |
-| [HTML Cheat Sheet](https://www.interviewbit.com/html-cheat-sheet/)                           | A Complete HTML Cheat Sheet to help you master HTML.                                                             |
-| [HTML and HTML5 Interview Questions](https://www.interviewbit.com/html-interview-questions/) | A Complete list of HTML Interview Questions to help you ace your interview.                                      |
+| Website                                                                    | Description                                                                                                      |
+| -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| [freeCodeCamp](https://www.freecodecamp.org/learn)                         | Free course to learn Web Development.                                                                            |
+| [Interneting Is Hard](https://www.internetingishard.com)                   | Friendly web development tutorials for complete beginners.                                                       |
+| [Learn to Code HTML & CSS](https://learn.shayhowe.com)                     | The guide covers a variety of web design and development topics, ranging from beginner to advanced skill levels. |
+| [HTML Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) | HTML elements reference by MDN.                                                                                  |
+| [HTML Entity](https://css-tricks.com/snippets/html/glyphs/)                | HTML Entity Reference by CSS-Tricks.                                                                             |
+| [HTML Shark](https://html-shark.com)                                       | Smart moves and dirty tricks for coding websites, effects and elements in HTML.                                  |
+| [Can I Use](https://caniuse.com)                                           | Up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.  |
+| [BEM](https://9elements.com/bem-cheat-sheet)                               | BEM naming cheat sheet.                                                                                          |
+| [Autoprefixer](https://autoprefixer.github.io)                             | Autoprefixer is a PostCSS plugin which parses your CSS and adds vendor prefixes.                                 |
+| [Placeholder](https://placeholder.com)                                     | How To Use Our Placeholders. Just specify the image size after our URL and you'll get a placeholder image.       |
+| [DevProjects](https://www.codementor.io/projects/html_css)                 | Practice your coding skills with free HTML/CSS projects. Projects vary from beginner to advanced level.          |
+| [HTML Cheat Sheet](https://www.interviewbit.com/html-cheat-sheet/)         | A Complete HTML Cheat Sheet to help you master HTML.                                                             |
 
 </p>
 <p align="right">(<a href="#readme-top">Back to top ⬆</a>)</p>
@@ -194,10 +163,11 @@
 <br>
 <p>
 
-| Website                                         | Description                                           |
-| ----------------------------------------------- | ----------------------------------------------------- |
-| [Open Source Guides](https://opensource.guide/) | GitHub's guide to open source                         |
-| [hacktoberfest](https://hacktoberfest.com/)     | Great way to get involved with projects every october |
+| Website                                    | Description                                           |
+| ------------------------------------------ | ----------------------------------------------------- |
+| [Open Source Guides][open-source-guides]   | GitHub's guide to open source                         |
+| [hacktoberfest][hacktoberfest]             | Great way to get involved with projects every october |
+| [First Contributions][first-contributions] | A collection of projects to get involved with         |
 
 </p>
 <p align="right">(<a href="#readme-top">Back to top ⬆</a>)</p>
@@ -223,7 +193,7 @@
 
 ## Contributors
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Thanks goes to all contributors ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -246,10 +216,10 @@ This project follows the [all-contributors](https://allcontributors.org) specifi
 
 <p align="right">(<a href="#readme-top">Back to top ⬆</a>)</p>
 
-<!-- MARKDOWN LINKS & IMAGES -->
+<!-- ALL LINKS -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-<!-- [contributors-shield]: https://img.shields.io/github/contributors/notMyFirstCodeo/web-dev-resources.svg?style=for-the-badge -->
+<!-- PROJECT SHIELDS -->
 
 [contributors-shield]: https://img.shields.io/github/all-contributors/notMyFirstCodeo/web-dev-resources.svg?color=brightgreen&style=for-the-badge
 [contributors-url]: #contributors
@@ -263,3 +233,15 @@ This project follows the [all-contributors](https://allcontributors.org) specifi
 [license-url]: https://github.com/notMyFirstCodeo/web-dev-resources/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/sf-adams
+
+<!-- HTML LINKS -->
+
+<!-- CSS LINKS -->
+
+<!-- JAVASCRIPT LINKS -->
+
+<!-- OPEN SOURCE LINKS -->
+
+[open-source-guide]: https://opensource.guide/
+[hacktoberfest]: https://hacktoberfest.com/
+[first-contributions]: https://firstcontributions.github.io/
