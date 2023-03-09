@@ -38,10 +38,18 @@
 - [JavaScript](#javascript)
 - [Git and GitHub](#git--github)
 - [Frameworks](#frameworks)
-- [Open Source](#open-source)
+- [UI & UX](#ui--ux)
+- [Accessibility](#accessibility)
 - [Additional Topics](#additional-topics)
   - [YouTube Channels](#youtube-channels)
   - [Podcasts](#podcasts)
+  - [Online Communities](#online-communities)
+  - [Open Source](#open-source)
+
+<!-- Further topics -->
+  <!-- - [Games & Challenges](#games--challenges)
+- [Learning Online](#learning-online)
+- [Software & Platforms](#software--platforms) -->
 
 ## HTML
 
@@ -68,12 +76,8 @@ _Cascading Style Sheets is a styling language used to add design and layout to w
 | [CSS Diner](https://flukeout.github.io)                                                               | A fun game to help you learn and practice CSS selectors.                                                                        |
 | [Flexbox Froggy](https://flexboxfroggy.com)                                                           | A highly popular game that helps you to learn CSS Flex fundamentals.                                                            |
 | [CSS Tricks - Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)                       | A Complete Guide to Flexbox.                                                                                                    |
-| [Grid by Example](https://gridbyexample.com)                                                          | Everything you need to learn CSS Grid Layout.                                                                                   |
 | [CSS Layout](https://csslayout.io)                                                                    | A collection of popular layouts and patterns made with CSS.                                                                     |
-| [Modern CSS Solutions](https://moderncss.dev)                                                         | A series examining modern CSS solutions to problems.                                                                            |
-| [Grid Garden](https://cssgridgarden.com)                                                              | A game for learning CSS Grid.                                                                                                   |
 | [CSS TRICKS - A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)     | A comprehensive guide to CSS grid, focusing on all the settings both for the grid parent container and the grid child elements. |
-| [Learn CSS Grid](https://learncssgrid.com)                                                            | A comprehensive guide to help you understand and learn CSS Grid Layout, by Jonathan Suh.                                        |
 | [CSS Cheat Sheet](https://www.codecademy.com/learn/learn-css/modules/syntax-and-selectors/cheatsheet) | Codecademy's CSS cheat sheet, downloadable with examples.                                                                       |
 
 <p align="right">(<a href="#readme-top">Back to top ⬆</a>)</p>
@@ -84,13 +88,15 @@ _Cascading Style Sheets is a styling language used to add design and layout to w
 
 _JavaScript is a programming language used to create dynamic and interactive web content, and is primarily executed in web browsers_
 
-| Website                                                | Description                                                                             |
-| ------------------------------------------------------ | --------------------------------------------------------------------------------------- |
-| [freeCodeCamp](https://www.freecodecamp.org/learn)     | Free course to learn Web Development.                                                   |
-| [freeCodeCamp](https://www.freecodecamp.org/learn)     | Free course to learn Web Development.                                                   |
-| [freeCodeCamp](https://www.freecodecamp.org/learn)     | Free course to learn Web Development.                                                   |
-| [Eloquent JavaScript](https://eloquentjavascript.net/) | A free online book that offers a comprehensive introduction to JS.                      |
-| [JavaScript30](https://javascript30.com/)              | A free online course that teaches modern JavaScript by building 30 real-world projects. |
+| Website                                                                 | Description                                                                                                                                                         |
+| ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [JavaScript.info](https://javascript.info/)                             | Detailed guide to JavaScript, using interactive examples and exercises.                                                                                             |
+| [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | Comprehensive resource for learning JavaScript, from basic syntax to advanced topics. Includes tutorials, guides, and reference materials.                          |
+| [JavaScript30](https://javascript30.com/)                               | A free online course that teaches modern JavaScript by building 30 real-world projects.                                                                             |
+| [Eloquent JavaScript](https://eloquentjavascript.net/)                  | A free online book that offers a comprehensive introduction to JS.                                                                                                  |
+| [ES6 Features](https://es6-features.org/)                               | A comprehensive guide to the new features in ECMAScript 6 (ES6), the latest version of the JavaScript language. Includes examples and compatibility information.    |
+| [JSFiddle](https://jsfiddle.net/)                                       | An online editor for testing and sharing JavaScript, HTML, and CSS code snippets. Includes a console for debugging and collaboration tools for working with others. |
+| [DevDocs](https://devdocs.io/javascript/)                               | A comprehensive online documentation browser that includes documentation for JavaScript, as well as many other web development technologies.                        |
 
 <p align="right">(<a href="#readme-top">Back to top ⬆</a>)</p>
 
@@ -130,21 +136,13 @@ _Git is a version control system used to manage and track changes to your code, 
 
 <!-- OPEN SOURCE SECTION -->
 
-## Open Source
-
-> HTML and CSS are the foundations you need to begin your journey as a web developer. You'll use HTML to define the structure, and CSS to add the style. The resources below will help you get there.
-
-| Website                                    | Description                                           |
-| ------------------------------------------ | ----------------------------------------------------- |
-| [Open Source Guides][open-source-guides]   | GitHub's guide to open source                         |
-| [hacktoberfest][hacktoberfest]             | Great way to get involved with projects every october |
-| [First Contributions][first-contributions] | A collection of projects to get involved with         |
-
-<p align="right">(<a href="#readme-top">Back to top ⬆</a>)</p>
-
 <!-- ADDITIONAL RESOURCES -->
 
 ## Additional Resources
+
+<details><summary>Click to expand</summary>
+<br>
+<p>
 
 ### YouTube Channels
 
@@ -156,26 +154,53 @@ _YouTube is a great way to learn to code, but make sure that you find high-quali
 | [Traversy Media](https://www.youtube.com/user/TechGuyWeb)              | A channel featuring web development tutorials and courses on topics such as HTML, CSS, JavaScript, React, and Node.js.                                               |
 | [Programming with Mosh](https://www.youtube.com/c/programmingwithmosh) | A channel offering high-quality, in-depth programming courses and tutorials on a variety of topics, including JavaScript, Python, C#, and more.                      |
 | [The Net Ninja](https://www.youtube.com/c/TheNetNinja)                 | A channel offering tutorials on web development topics, including HTML, CSS, JavaScript, React, and more, with a focus on clear explanations and practical examples. |
+| [Kevin Powell](https://www.youtube.com/user/KepowOb/)                  | A YouTube channel by **_legendary_** web designer and developer Kevin Powell, featuring videos on front-end web development, CSS, and design.                        |
 | [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)     | A channel featuring tutorials on web development topics, including HTML, CSS, JavaScript, and React, with a focus on clear explanations and practical examples.      |
 | [Fireship](https://www.youtube.com/c/AngularFirebase)                  | A channel offering web development tutorials and tips on topics such as JavaScript, Firebase, and web design, with a focus on quick, actionable content.             |
 
 <p align="right">(<a href="#readme-top">Back to top ⬆</a>)</p>
 
+### Online Communities
+
+_Description_
+
+| Website & Link                                                | Description                                                                                                                                                                                                                                                                 |
+| ------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Stack Overflow](https://stackoverflow.com/)                  | A question and answer platform for developers with a large community of developers who share their knowledge and expertise to help others solve coding problems.                                                                                                            |
+| [GitHub Discussions](https://github.com/features/discussions) | A platform for community discussions on GitHub. Developers can ask questions, share ideas, and collaborate with other developers on open source projects hosted on GitHub.                                                                                                  |
+| [Reddit Web Development](https://www.reddit.com/r/webdev/)    | A subreddit dedicated to web development discussions, news, and resources. It has a large community of web developers who share their knowledge and experience to help others learn and grow in the field.                                                                  |
+| [FreeCodeCamp Forum](https://www.freecodecamp.org/forum/)     | A forum for learners and developers to share knowledge and connect with each other. It has a large community of learners and developers who discuss coding challenges, share resources, and help each other learn to code.                                                  |
+| [Dev.to](https://dev.to/)                                     | A community platform for software developers to share knowledge and connect with each other. It has a large community of developers who share their expertise and experience through articles, podcasts, and discussions on a wide range of topics in software development. |
+
+<p align="right">(<a href="#readme-top">Back to top ⬆</a>)</p>
+
 ### Podcasts
 
-| Website                                                | Description                                                                                                                                                                                          |
-| ------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [CodeNewbie](https://www.codenewbie.org/podcast)       | A podcast for beginners learning to code, featuring interviews with developers and discussions on topics such as learning resources and career advice.                                               |
-| [Syntax.fm](https://syntax.fm/)                        | A podcast for web developers hosted by Wes Bos and Scott Tolinski, covering a wide range of topics including JavaScript, CSS, and more.                                                              |
-| [CodePen Radio](https://blog.codepen.io/radio/)        | A podcast about front-end web development and the CodePen community, featuring interviews with developers and discussions on web development trends and tools.                                       |
-| [ShopTalk Show](https://shoptalkshow.com/)             | A podcast for web designers and developers, featuring discussions on web development topics such as HTML, CSS, and JavaScript, as well as interviews with industry experts.                          |
-| [Full Stack Radio](http://www.fullstackradio.com/)     | A podcast for developers interested in building great software products, featuring interviews with experienced developers and discussions on topics such as programming techniques and architecture. |
-| [JavaScript Jabber](https://devchat.tv/js-jabber/)     | A podcast focused on JavaScript development, featuring discussions on topics such as frameworks, libraries, and best practices.                                                                      |
-| [The Changelog](https://changelog.com/podcast)         | A podcast covering open source software, web development, and technology, featuring interviews with developers and discussions on current trends and events.                                         |
-| [Hanselminutes](https://www.hanselminutes.com/)        | A podcast hosted by Scott Hanselman covering a wide range of programming and technology topics, including web development, tools, and techniques.                                                    |
-| [Front End Happy Hour](https://frontendhappyhour.com/) | A podcast featuring discussions on front-end web development topics, hosted by a panel of industry experts who also enjoy craft beers.                                                               |
-| [Ladybug Podcast](https://www.ladybug.dev/)            | A podcast for developers, featuring discussions on web development, career advice, and industry news, from the perspective of four female developers.                                                |
+| Website                                                | Description                                                                                                                                                                 |
+| ------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [CodeNewbie](https://www.codenewbie.org/podcast)       | A podcast for beginners learning to code, featuring interviews with developers and discussions on topics such as learning resources and career advice.                      |
+| [JavaScript Jabber](https://devchat.tv/js-jabber/)     | A podcast focused on JavaScript development, featuring discussions on topics such as frameworks, libraries, and best practices.                                             |
+| [Syntax.fm](https://syntax.fm/)                        | A podcast for web developers hosted by Wes Bos and Scott Tolinski, covering a wide range of topics including JavaScript, CSS, and more.                                     |
+| [The Changelog](https://changelog.com/podcast)         | A podcast covering open source software, web development, and technology, featuring interviews with developers and discussions on current trends and events.                |
+| [Front End Happy Hour](https://frontendhappyhour.com/) | A podcast featuring discussions on front-end web development topics, hosted by a panel of industry experts who also enjoy craft beers.                                      |
+| [CodePen Radio](https://blog.codepen.io/radio/)        | A podcast about front-end web development and the CodePen community, featuring interviews with developers and discussions on web development trends and tools.              |
+| [ShopTalk Show](https://shoptalkshow.com/)             | A podcast for web designers and developers, featuring discussions on web development topics such as HTML, CSS, and JavaScript, as well as interviews with industry experts. |
+| [Compressed.fm](https://www.compressed.fm/)            | A weekly podcast from James Q Quick and Amy Dutton about Web Development and Web Design with 'a little bit of zest'!                                                        |
 
+<p align="right">(<a href="#readme-top">Back to top ⬆</a>)</p>
+
+## Open Source
+
+> HTML and CSS are the foundations you need to begin your journey as a web developer. You'll use HTML to define the structure, and CSS to add the style. The resources below will help you get there.
+
+| Website                                    | Description                                           |
+| ------------------------------------------ | ----------------------------------------------------- |
+| [Open Source Guides][open-source-guides]   | GitHub's guide to open source                         |
+| [hacktoberfest][hacktoberfest]             | Great way to get involved with projects every october |
+| [First Contributions][first-contributions] | A collection of projects to get involved with         |
+
+</p>
+</details>
 <p align="right">(<a href="#readme-top">Back to top ⬆</a>)</p>
 
 ## Contributors
