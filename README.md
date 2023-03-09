@@ -36,7 +36,6 @@
 - [Git and GitHub](#git--github)
 - [Frameworks](#frameworks)
 - [Web Design](#web-design)
-- [Accessibility](#accessibility)
 - [Additional Resources](#additional-resources)
   - [YouTube Channels](#youtube-channels)
   - [Podcasts](#podcasts)
@@ -47,6 +46,7 @@
 <!-- Further topics -->
   <!-- - [Games & Challenges](#games--challenges)
 - [Learning Online](#learning-online)
+- [Accessibility](#accessibility)
 - [Software & Platforms](#software--platforms) -->
 
 ## HTML
