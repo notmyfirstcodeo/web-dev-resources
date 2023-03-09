@@ -18,14 +18,11 @@
 <h3 align="center">Web Dev Resources</h3>
 
   <p align="center">
-    A collection of resources for Junior Developers to bookmark. It includes curated links to tutorials, documentation, and other materials to help improving skills. There are clear guidelines for contributing to the repository, which include forking, cloning, and submitting a pull request with any new resources you would like to share. Join our community and help everyone level up their skills!
+    Tutorials, documentation, and other materials to help anyone improve. We're always looking for new resources, so click below to see how you can share. Join our community and help everyone level up their skills!
     <br />
-    <a href="https://github.com/notMyFirstCodeo/web-dev-resources/blob/main/CONTRIBUTING.md"><strong>How to contribute »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/notMyFirstCodeo/web-dev-resources/issues">Report Issue</a>
+    <a href="https://github.com/notMyFirstCodeo/web-dev-resources/blob/main/CONTRIBUTING.md">Contribute Here</a>
     ·
-    <a href="https://github.com/notMyFirstCodeo/web-dev-resources/issues">Request Resource</a>
+    <a href="https://github.com/notMyFirstCodeo/web-dev-resources/issues">Report Issue</a>
   </p>
 </div>
 
@@ -38,13 +35,14 @@
 - [JavaScript](#javascript)
 - [Git and GitHub](#git--github)
 - [Frameworks](#frameworks)
-- [UI & UX](#ui--ux)
+- [Web Design](#web-design)
 - [Accessibility](#accessibility)
-- [Additional Topics](#additional-topics)
+- [Additional Resources](#additional-resources)
   - [YouTube Channels](#youtube-channels)
   - [Podcasts](#podcasts)
   - [Online Communities](#online-communities)
   - [Open Source](#open-source)
+- [Contributors](#contributors)
 
 <!-- Further topics -->
   <!-- - [Games & Challenges](#games--challenges)
@@ -86,7 +84,7 @@ _Cascading Style Sheets is a styling language used to add design and layout to w
 
 ## JavaScript
 
-_JavaScript is a programming language used to create dynamic and interactive web content, and is primarily executed in web browsers_
+_JavaScript is a programming language used to create dynamic and interactive web content, and is primarily executed in web browsers._
 
 | Website                                                                 | Description                                                                                                                                                         |
 | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -120,29 +118,34 @@ _Git is a version control system used to manage and track changes to your code, 
 
 ## Frameworks
 
-> HTML and CSS are the foundations you need to begin your journey as a web developer. You'll use HTML to define the structure, and CSS to add the style. The resources below will help you get there.
+_Tools and libraries that help developers build user interfaces for websites and web applications more efficiently and with greater consistency._
 
-<details><summary>Click to expand</summary>
-<br>
-<p>
+| Website                                  | Description                                                                                                                                      |
+| ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [React](https://reactjs.org/)            | A JavaScript library for building user interfaces with a component-based approach.                                                               |
+| [Angular](https://angular.io/)           | A TypeScript-based web application framework that provides a complete solution for building complex client-side applications.                    |
+| [Vue.js](https://vuejs.org/)             | A progressive JavaScript framework for building user interfaces that emphasizes declarative programming and component reusability.               |
+| [Bootstrap](https://getbootstrap.com/)   | A popular CSS framework that provides pre-built UI components and styles to make it easier to create responsive web designs.                     |
+| [Tailwind CSS](https://tailwindcss.com/) | A utility-first CSS framework that provides a set of pre-defined classes for quickly building custom user interfaces without writing custom CSS. |
 
-| Website                                            | Description                           |
-| -------------------------------------------------- | ------------------------------------- |
-| [freeCodeCamp](https://www.freecodecamp.org/learn) | Free course to learn Web Development. |
-
-</p>
 <p align="right">(<a href="#readme-top">Back to top ⬆</a>)</p>
-</details>
 
-<!-- OPEN SOURCE SECTION -->
+## Web Design
 
-<!-- ADDITIONAL RESOURCES -->
+_Tools for creating visually appealing and user-friendly websites that provide an optimal user experience._
+
+| Website                                         | Description                                                                                                               |
+| ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| [Figma](https://www.figma.com/)                 | Cloud-based design tool for creating user interfaces, with collaboration and prototyping features.                        |
+| [Unsplash](https://unsplash.com/)               | Collection of free, high-quality stock photos that can be used in web design projects.                                    |
+| [The Noun Project](https://thenounproject.com/) | Collection of icons and symbols that can be customized and used in web design projects.                                   |
+| [Coolors.co](https://coolors.co/)               | Color scheme generator tool that allows users to create and save custom color palettes.                                   |
+| [Dribbble.com](https://dribbble.com/)           | Community of designers sharing screenshots of their work, process, and projects.                                          |
+| [Behance.net](https://www.behance.net/)         | Online platform for showcasing and discovering creative work, including graphic design, photography, and web development. |
+
+<p align="right">(<a href="#readme-top">Back to top ⬆</a>)</p>
 
 ## Additional Resources
-
-<details><summary>Click to expand</summary>
-<br>
-<p>
 
 ### YouTube Channels
 
@@ -157,20 +160,6 @@ _YouTube is a great way to learn to code, but make sure that you find high-quali
 | [Kevin Powell](https://www.youtube.com/user/KepowOb/)                  | A YouTube channel by **_legendary_** web designer and developer Kevin Powell, featuring videos on front-end web development, CSS, and design.                        |
 | [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)     | A channel featuring tutorials on web development topics, including HTML, CSS, JavaScript, and React, with a focus on clear explanations and practical examples.      |
 | [Fireship](https://www.youtube.com/c/AngularFirebase)                  | A channel offering web development tutorials and tips on topics such as JavaScript, Firebase, and web design, with a focus on quick, actionable content.             |
-
-<p align="right">(<a href="#readme-top">Back to top ⬆</a>)</p>
-
-### Online Communities
-
-_Description_
-
-| Website & Link                                                | Description                                                                                                                                                                                                                                                                 |
-| ------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Stack Overflow](https://stackoverflow.com/)                  | A question and answer platform for developers with a large community of developers who share their knowledge and expertise to help others solve coding problems.                                                                                                            |
-| [GitHub Discussions](https://github.com/features/discussions) | A platform for community discussions on GitHub. Developers can ask questions, share ideas, and collaborate with other developers on open source projects hosted on GitHub.                                                                                                  |
-| [Reddit Web Development](https://www.reddit.com/r/webdev/)    | A subreddit dedicated to web development discussions, news, and resources. It has a large community of web developers who share their knowledge and experience to help others learn and grow in the field.                                                                  |
-| [FreeCodeCamp Forum](https://www.freecodecamp.org/forum/)     | A forum for learners and developers to share knowledge and connect with each other. It has a large community of learners and developers who discuss coding challenges, share resources, and help each other learn to code.                                                  |
-| [Dev.to](https://dev.to/)                                     | A community platform for software developers to share knowledge and connect with each other. It has a large community of developers who share their expertise and experience through articles, podcasts, and discussions on a wide range of topics in software development. |
 
 <p align="right">(<a href="#readme-top">Back to top ⬆</a>)</p>
 
@@ -189,18 +178,30 @@ _Description_
 
 <p align="right">(<a href="#readme-top">Back to top ⬆</a>)</p>
 
-## Open Source
+### Online Communities
 
-> HTML and CSS are the foundations you need to begin your journey as a web developer. You'll use HTML to define the structure, and CSS to add the style. The resources below will help you get there.
+_Platforms for programmers to connect, collaborate, and share knowledge with one another, regardless of their location or level of expertise._
 
-| Website                                    | Description                                           |
-| ------------------------------------------ | ----------------------------------------------------- |
-| [Open Source Guides][open-source-guides]   | GitHub's guide to open source                         |
-| [hacktoberfest][hacktoberfest]             | Great way to get involved with projects every october |
-| [First Contributions][first-contributions] | A collection of projects to get involved with         |
+| Website & Link                                                | Description                                                                                                                                                                                                                |
+| ------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Stack Overflow](https://stackoverflow.com/)                  | A question and answer platform for developers with a large community of developers who share their knowledge and expertise to help others solve coding problems.                                                           |
+| [GitHub Discussions](https://github.com/features/discussions) | A platform for community discussions on GitHub. Developers can ask questions, share ideas, and collaborate with other developers on open source projects hosted on GitHub.                                                 |
+| [Reddit Web Development](https://www.reddit.com/r/webdev/)    | A subreddit dedicated to web development discussions, news, and resources. It has a large community of web developers who share their knowledge and experience to help others learn and grow in the field.                 |
+| [FreeCodeCamp Forum](https://www.freecodecamp.org/forum/)     | A forum for learners and developers to share knowledge and connect with each other. It has a large community of learners and developers who discuss coding challenges, share resources, and help each other learn to code. |
+| [Dev.to](https://dev.to/)                                     | Large community of developers who share their expertise and experience through articles, podcasts, and discussions on a wide range of topics in software development.                                                      |
 
-</p>
-</details>
+<p align="right">(<a href="#readme-top">Back to top ⬆</a>)</p>
+
+### Open Source
+
+_Software or projects whose source code is made freely available to the public, allowing anyone to view, use, modify, and distribute the software or project._
+
+| Website                                                      | Description                                           |
+| ------------------------------------------------------------ | ----------------------------------------------------- |
+| [Open Source Guides](https://opensource.guide/)              | GitHub's guide to open source                         |
+| [hacktoberfest](https://hacktoberfest.com/)                  | Great way to get involved with projects every october |
+| [First Contributions](https://firstcontributions.github.io/) | A collection of projects to get involved with         |
+
 <p align="right">(<a href="#readme-top">Back to top ⬆</a>)</p>
 
 ## Contributors
@@ -243,15 +244,3 @@ This project follows the [all-contributors](https://allcontributors.org) specifi
 [issues-url]: https://github.com/notMyFirstCodeo/web-dev-resources/issues
 [license-shield]: https://img.shields.io/github/license/notMyFirstCodeo/web-dev-resources.svg?style=for-the-badge
 [license-url]: https://github.com/notMyFirstCodeo/web-dev-resources/blob/master/LICENSE.txt
-
-<!-- HTML LINKS -->
-
-<!-- CSS LINKS -->
-
-<!-- JAVASCRIPT LINKS -->
-
-<!-- OPEN SOURCE LINKS -->
-
-[open-source-guide]: https://opensource.guide/
-[hacktoberfest]: https://hacktoberfest.com/
-[first-contributions]: https://firstcontributions.github.io/
