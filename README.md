@@ -41,6 +41,7 @@
   - [Podcasts](#podcasts)
   - [Online Communities](#online-communities)
   - [Open Source](#open-source)
+  - [Courses](#courses)
 - [Contributors](#contributors)
 
 <!-- Further topics -->
@@ -204,6 +205,20 @@ _Software or projects whose source code is made freely available to the public, 
 
 <p align="right">(<a href="#readme-top">Back to top ⬆</a>)</p>
 
+### Courses
+
+_Online teaching to supplement or structure your learning._
+
+| Website                                                              | Description                                                                                                                                            |
+| -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [The Odin Project](https://www.theodinproject.com/)                  | A comprehensive curriculum covering HTML, CSS, JavaScript, and web development fundamentals.                                                           |
+| [FreeCodeCamp](https://www.freecodecamp.org/)                        | A learning platform that covers HTML, CSS, JavaScript, and other web development topics, with interactive exercises and projects.                      |
+| [Codecademy](https://www.codecademy.com/learn/paths/web-development) | A platform offering interactive courses on HTML, CSS, JavaScript, and other web development topics, with hands-on exercises and projects.              |
+| [W3Schools](https://www.w3schools.com/)                              | An online learning platform offering tutorials on HTML, CSS, JavaScript, and other web development topics, with interactive code examples.             |
+| [Scrimba](https://scrimba.com/learn/htmlcssjavascript)               | A platform offering interactive courses on HTML, CSS, JavaScript, and other web development topics, with video-based tutorials and a live code editor. |
+
+<p align="right">(<a href="#readme-top">Back to top ⬆</a>)</p>
+
 ## Contributors
 
 Thanks goes to all contributors ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
@@ -217,6 +232,7 @@ Thanks goes to all contributors ([emoji key](https://allcontributors.org/docs/en
       <td align="center" valign="top" width="14.28%"><a href="https://www.sf-adams.com/"><img src="https://avatars.githubusercontent.com/u/35069870?v=4?s=100" width="100px;" alt="Sam"/><br /><sub><b>Sam</b></sub></a><br /><a href="https://github.com/notmyfirstcodeo/web-dev-resources/commits?author=sf-adams" title="Documentation">📖</a> <a href="#content-sf-adams" title="Content">🖋</a> <a href="#maintenance-sf-adams" title="Maintenance">🚧</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/O-Marsters-1997"><img src="https://avatars.githubusercontent.com/u/72571979?v=4?s=100" width="100px;" alt="O-Marsters-1997"/><br /><sub><b>O-Marsters-1997</b></sub></a><br /><a href="https://github.com/notmyfirstcodeo/web-dev-resources/commits?author=O-Marsters-1997" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/BekstersLab"><img src="https://avatars.githubusercontent.com/u/35780737?v=4?s=100" width="100px;" alt="BekstersLab"/><br /><sub><b>BekstersLab</b></sub></a><br /><a href="#content-BekstersLab" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/MaryAnn333"><img src="https://avatars.githubusercontent.com/u/125837110?v=4?s=100" width="100px;" alt="MaryAnn333"/><br /><sub><b>MaryAnn333</b></sub></a><br /><a href="#content-MaryAnn333" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
