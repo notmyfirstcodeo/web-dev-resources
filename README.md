@@ -41,6 +41,7 @@
   - [Podcasts](#podcasts)
   - [Online Communities](#online-communities)
   - [Open Source](#open-source)
+  - [Courses](#courses)
 - [Contributors](#contributors)
 
 <!-- Further topics -->
@@ -201,6 +202,20 @@ _Software or projects whose source code is made freely available to the public, 
 | [Open Source Guides](https://opensource.guide/)              | GitHub's guide to open source                         |
 | [hacktoberfest](https://hacktoberfest.com/)                  | Great way to get involved with projects every october |
 | [First Contributions](https://firstcontributions.github.io/) | A collection of projects to get involved with         |
+
+<p align="right">(<a href="#readme-top">Back to top ⬆</a>)</p>
+
+### Courses
+
+_Online teaching to supplement or structure your learning._
+
+| Website                                                              | Description                                                                                                                                            |
+| -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [The Odin Project](https://www.theodinproject.com/)                  | A comprehensive curriculum covering HTML, CSS, JavaScript, and web development fundamentals.                                                           |
+| [FreeCodeCamp](https://www.freecodecamp.org/)                        | A learning platform that covers HTML, CSS, JavaScript, and other web development topics, with interactive exercises and projects.                      |
+| [Codecademy](https://www.codecademy.com/learn/paths/web-development) | A platform offering interactive courses on HTML, CSS, JavaScript, and other web development topics, with hands-on exercises and projects.              |
+| [W3Schools](https://www.w3schools.com/)                              | An online learning platform offering tutorials on HTML, CSS, JavaScript, and other web development topics, with interactive code examples.             |
+| [Scrimba](https://scrimba.com/learn/htmlcssjavascript)               | A platform offering interactive courses on HTML, CSS, JavaScript, and other web development topics, with video-based tutorials and a live code editor. |
 
 <p align="right">(<a href="#readme-top">Back to top ⬆</a>)</p>
 
