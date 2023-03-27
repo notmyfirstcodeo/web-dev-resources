@@ -6,7 +6,7 @@
   "commit": false,
   "commitConvention": "angular",
   "contributors": [
-{
+    {
       "login": "sf-adams",
       "name": "Sam",
       "avatar_url": "https://avatars.githubusercontent.com/u/35069870?v=4",
@@ -17,20 +17,29 @@
         "maintenance"
       ]
     },
-        {
+    {
       "login": "O-Marsters-1997",
       "name": "O-Marsters-1997",
       "avatar_url": "https://avatars.githubusercontent.com/u/72571979?v=4",
       "profile": "https://github.com/O-Marsters-1997",
       "contributions": [
         "doc"
-]
-}
+      ]
+    },
+    {
+      "login": "BekstersLab",
+      "name": "BekstersLab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35780737?v=4",
+      "profile": "https://github.com/BekstersLab",
+      "contributions": [
+        "content"
+      ]
+    }
   ],
   "contributorsPerLine": 7,
   "skipCi": true,
   "repoType": "github",
   "repoHost": "https://github.com",
   "projectName": "web-dev-resources",
-  "projectOwner": "notMyFirstCodeo"
+  "projectOwner": "notmyfirstcodeo"
 }
