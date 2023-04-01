@@ -4,6 +4,10 @@
 
 # Contributing Guidelines
 
+Thank you for your interest in contributing to `web-dev-resources`! It may seem overwhelming when you are first starting to use `git` and `GitHub`, but we have tried to detail the steps as clearly as possible. For some topics, we have provided links to further details.
+
+> We have no affiliation or association with any of the resources in the guide. Please do not add sponsored links or referral links - all resources should have the majority of content available for free.
+
 There are **two** ways you can contribute your resources to this repository - [Adding](#adding-a-resource) and [Suggesting](#suggesting-a-resource). We recommend trying to add a resource first, as this will help you with making contributions to future projects that use this process.
 
 _If you wish to use the GitHub Desktop app, please use [this page](./docs/github-desktop.md) instead._
