@@ -2,27 +2,31 @@
 
 [Back to Resources](/README.md)
 
-# Contributing Guidelines
+# Contribution Guidelines
 
-Thank you for your interest in contributing to `web-dev-resources`! It may seem overwhelming when you are first starting to use `git` and `GitHub`, but we have tried to detail the steps as clearly as possible. For some topics, we have provided links to further details.
+Firstly, thank you for your interest in contributing! At first it may seem an overwhelming volume of new terms and commands, but don't be put off by this.
 
-> We have no affiliation or association with any of the resources in the guide. Please do not add sponsored links or referral links - all resources should have the majority of content available for free.
+Below is a full guide, with step-by-step instructions to help you make contributions. The skills you will learn from this can be applied to a number of
 
-There are **two** ways you can contribute your resources to this repository - [Adding](#adding-a-resource) and [Suggesting](#suggesting-a-resource). We recommend trying to add a resource first, as this will help you with making contributions to future projects that use this process.
+Remember, contributing to open source is a learning experience. Don't be afraid to ask questions, seek help, or make mistakes. We're all here to help each other learn and grow as contributors. Happy contributing!
 
-_If you wish to use the GitHub Desktop app, please use [this page](./docs/github-desktop.md) instead._
+## Getting Started
 
-**In order to follow these instructions, you will need [git][git-introduction] on your machine. [See here][git-install] for how to install it.**
+Git and GitHub will both be required to continue with the following steps. There are a [collection of resources](README.md/#git--github) in the README that can help you understand these tools.
 
-## Adding a resource
+`Git` is a version control system that allows multiple people to work on the same codebase, keeping track of changes and enabling collaboration.
 
-Similar to [First Contributions][first-contributions], this project is intended to help beginners share resources they have found on their learning journey. The following steps are from the First Contributions repository so as to be as clear as possible. We also highly recommend checking out their project to add another contribution to your belt!
+> Please make sure you have installed Git on your machine before continuing. Some computers will have it built in, but if you can't find it, you can download for [Mac](https://git-scm.com/download/mac) or [Windows](https://gitforwindows.org/).
 
-### Step 1: Fork web-dev-resources repository
+`GitHub` is a web-based platform that provides hosting for Git repositories, making it easier for individuals and teams to collaborate on and manage their code projects.
+
+> If you don't already have a GitHub account, sign up for one now so that you can become a contributor. It is free to do and can be found in the navigation bar.
+
+## Step 1: Fork the `web-dev-resources` repository
 
 Fork this repository by clicking on the fork button on the top of this page. This will create a copy of this repository in your account.
 
-### Step 2: Clone the repository
+## Step 2: Clone the repository
 
 Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the copy to clipboard icon.
 
@@ -33,30 +37,3 @@ git clone "url you just copied"
 ```
 
 where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
-
-### Step 3:
-
-## Suggesting a resource
-
-We welcome everyone to help contribute, so if the previous instructions were a little too much for right now, here's how else you can submit a suggestion.
-
-1. Go to the [Pull requests][pull-requests] tab and click on `New pull request`
-2. Add `one` resource per pull request in the following format: `[Category] - [Resource] - [Description]`
-3. On a new line, provide a link to the resource `e.g. https://www.w3schools.com/TAGS/default.asp`
-
-The final result should look something like this:
-
-```
-Open Source - GitHub Guide - Documentation to help guide you through everything open source
-
-https://opensource.guide/
-```
-
-<p align="right">(<a href="#readme-top">Back to top ⬆</a>)</p>
-
-<!-- MARKDOWN LINKS -->
-
-[git-introduction]: https://www.w3schools.com/git/git_intro.asp?remote=github
-[git-install]: https://docs.github.com/en/get-started/quickstart/set-up-git
-[first-contributions]: https://github.com/firstcontributions/first-contributions
-[pull-requests]: https://github.com/notMyFirstCodeo/web-dev-resources/pulls

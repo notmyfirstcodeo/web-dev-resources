@@ -68,16 +68,20 @@ _Hypertext Markup Language is a markup language used to create and structure con
 
 _Cascading Style Sheets is a styling language used to add design and layout to web pages, by applying styles to HTML elements._
 
-| Website                                                                                               | Description                                                                                                                     |
-| ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| [CSS3 Properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)                         | CSS reference by MDN.                                                                                                           |
-| [CSS Reference](https://cssreference.io)                                                              | A free visual guide to CSS.                                                                                                     |
-| [CSS Diner](https://flukeout.github.io)                                                               | A fun game to help you learn and practice CSS selectors.                                                                        |
-| [Flexbox Froggy](https://flexboxfroggy.com)                                                           | A highly popular game that helps you to learn CSS Flex fundamentals.                                                            |
-| [CSS Tricks - Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)                       | A Complete Guide to Flexbox.                                                                                                    |
-| [CSS Layout](https://csslayout.io)                                                                    | A collection of popular layouts and patterns made with CSS.                                                                     |
-| [CSS TRICKS - A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)     | A comprehensive guide to CSS grid, focusing on all the settings both for the grid parent container and the grid child elements. |
-| [CSS Cheat Sheet](https://www.codecademy.com/learn/learn-css/modules/syntax-and-selectors/cheatsheet) | Codecademy's CSS cheat sheet, downloadable with examples.                                                                       |
+| Website                                                                                               | Description                                                                                                                       |
+| ----------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| [CSS3 Properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)                         | CSS reference by MDN.                                                                                                             |
+| [CSS Reference](https://cssreference.io)                                                              | A free visual guide to CSS.                                                                                                       |
+| [CSS Diner](https://flukeout.github.io)                                                               | A fun game to help you learn and practice CSS selectors.                                                                          |
+| [Learn CSS](https://web.dev/learn/css/)                                                               | A comprehensive guide to learning CSS by Google's web developers. Covers everything from the basics to advanced techniques.       |
+| [Flexbox Froggy](https://flexboxfroggy.com)                                                           | A highly popular game that helps you to learn CSS Flex fundamentals.                                                              |
+| [CSS Tricks - Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)                       | A Complete Guide to Flexbox.                                                                                                      |
+| [Flexbox Cheatsheet](https://darekkay.com/flexbox-cheatsheet/)                                        | A comprehensive reference guide to CSS flexbox layout.                                                                            |
+| [Grid Garden](https://cssgridgarden.com/)                                                             | A fun and interactive game for learning CSS grid layout. Challenges players to water and grow their garden using grid properties. |
+| [CSS Tricks - Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)                         | A comprehensive guide to CSS grid, focusing on all the settings both for the grid parent container and the grid child elements.   |
+| [Grid Cheatsheet](https://grid.malven.co/)                                                            | A web-based CSS grid layout generator that lets you easily create custom grids and export the code.                               |
+| [CSS Layout](https://csslayout.io)                                                                    | A collection of popular layouts and patterns made with CSS.                                                                       |
+| [CSS Cheat Sheet](https://www.codecademy.com/learn/learn-css/modules/syntax-and-selectors/cheatsheet) | Codecademy's CSS cheat sheet, downloadable with examples.                                                                         |
 
 <p align="right">(<a href="#readme-top">Back to top ⬆</a>)</p>
 
