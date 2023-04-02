@@ -20,6 +20,8 @@
   <p align="center">
     Tutorials, documentation, and other materials to help anyone improve. We're always looking for new resources, so click below to see how you can share. Join our community and help everyone level up their skills!
     <br />
+    We have no affiliation or association with any of the resources in the guide. Please do not add sponsored links or referral links - all resources should have the majority of content available for free.
+    <br />
     <a href="https://github.com/notMyFirstCodeo/web-dev-resources/blob/main/CONTRIBUTING.md">Contribute Here</a>
     ·
     <a href="https://github.com/notMyFirstCodeo/web-dev-resources/issues">Report Issue</a>
