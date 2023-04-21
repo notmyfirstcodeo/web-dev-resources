@@ -12,7 +12,17 @@
 <br />
 <div align="center">
   <a href="https://github.com/notMyFirstCodeo/web-dev-resources">
-    <img src="images/web-dev-resources.png" alt="Logo" width="100" height="100">
+  <picture>
+  <source
+    srcset="web-dev-resources-dark.png"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img
+    src="web-dev-resources-light.png"
+    alt="Web Dev Resources Logo"
+  />
+    </picture>
+    <!-- <img src="images/web-dev-resources.png" alt="Logo" width="100" height="100"> -->
   </a>
 
 <h3 align="center">Web Dev Resources</h3>
@@ -38,19 +48,13 @@
 - [Git and GitHub](#git--github)
 - [Frameworks](#frameworks)
 - [Web Design](#web-design)
-- [Additional Resources](#additional-resources)
-  - [YouTube Channels](#youtube-channels)
-  - [Podcasts](#podcasts)
-  - [Online Communities](#online-communities)
-  - [Open Source](#open-source)
-  - [Courses](#courses)
+- [Roadmaps](#roadmaps)
+- [YouTube Channels](#youtube-channels)
+- [Podcasts](#podcasts)
+- [Online Communities](#online-communities)
+- [Open Source](#open-source)
+- [Courses](#courses)
 - [Contributors](#contributors)
-
-<!-- Further topics -->
-  <!-- - [Games & Challenges](#games--challenges)
-- [Learning Online](#learning-online)
-- [Accessibility](#accessibility)
-- [Software & Platforms](#software--platforms) -->
 
 ## HTML
 
