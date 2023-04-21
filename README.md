@@ -12,15 +12,15 @@
 <br />
 <div align="center">
   <picture>
-  <source
-    srcset="web-dev-resources-dark-mode.png"
+    <source
+    srcset="./images/web-dev-resources-dark-mode.png"
     media="(prefers-color-scheme: dark)"
-  />
-  <img
-    src="web-dev-resources-light-mode.png"
+    />
+    <img
+    src="./images/web-dev-resources-light-mode.png"
     alt="Web Dev Resources Logo"
-  />
-    </picture>
+    />
+  </picture>
     <!-- <img src="images/web-dev-resources.png" alt="Logo" width="100" height="100"> -->
 
 <h3 align="center">Web Dev Resources</h3>
