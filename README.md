@@ -15,10 +15,12 @@
     <source
     srcset="./images/web-dev-resources-dark-mode.png"
     media="(prefers-color-scheme: dark)"
+    width="125" height="125"
     />
     <img
     src="./images/web-dev-resources-light-mode.png"
     alt="Web Dev Resources Logo"
+    width="125" height="125"
     />
   </picture>
     <!-- <img src="images/web-dev-resources.png" alt="Logo" width="100" height="100"> -->
