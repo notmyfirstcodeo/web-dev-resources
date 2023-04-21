@@ -11,19 +11,17 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/notMyFirstCodeo/web-dev-resources">
   <picture>
   <source
-    srcset="web-dev-resources-dark.png"
+    srcset="web-dev-resources-dark-mode.png"
     media="(prefers-color-scheme: dark)"
   />
   <img
-    src="web-dev-resources-light.png"
+    src="web-dev-resources-light-mode.png"
     alt="Web Dev Resources Logo"
   />
     </picture>
     <!-- <img src="images/web-dev-resources.png" alt="Logo" width="100" height="100"> -->
-  </a>
 
 <h3 align="center">Web Dev Resources</h3>
 
