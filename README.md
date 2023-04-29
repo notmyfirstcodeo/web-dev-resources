@@ -156,9 +156,21 @@ _Tools for creating visually appealing and user-friendly websites that provide a
 
 <p align="right">(<a href="#readme-top">Back to top ⬆</a>)</p>
 
-## Additional Resources
+## Roadmaps
 
-### YouTube Channels
+_Tools for creating visually appealing and user-friendly websites that provide an optimal user experience._
+
+| Website                                                                                    | Description                                                                                                                                                                                                                                                         |
+| ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Exercism](https://exercism.io/)                                                           | Exercism is a platform that provides code challenges and mentorship to help you improve your coding skills. What sets it apart is its emphasis on "feedback over grades," so you can focus on learning without worrying about whether your solutions are "correct." |
+| [Roadmap.sh](https://roadmap.sh/)                                                          | Roadmap.sh provides a comprehensive roadmap for various web development career paths, from frontend to full-stack to DevOps. It's a great resource for those who want to understand the big picture and plan out their learning journey.                            |
+| [Web Development Roadmap](https://www.w3schools.com/whatis/whatis_fullstack.asp)           | This resource on W3Schools provides a comprehensive roadmap for full-stack web development, including a breakdown of technologies and skills needed for each stage of the development process.                                                                      |
+| [Front-end Developer Handbook](https://frontendmasters.com/books/front-end-handbook/2019/) | The Front-end Developer Handbook is a free resource that provides a roadmap for learning front-end web development, including HTML, CSS, JavaScript, and related tools and technologies.                                                                            |
+| [The Odin Project](https://www.theodinproject.com/)                                        | The Odin Project is a free, open-source curriculum for learning web development, with a focus on full-stack development using Ruby on Rails. Its curriculum includes a detailed roadmap, as well as projects and exercises to help you apply your learning.         |
+
+<p align="right">(<a href="#readme-top">Back to top ⬆</a>)</p>
+
+## YouTube Channels
 
 _YouTube is a great way to learn to code, but make sure that you find high-quality educational channels and that the content is up-to-date._
 
@@ -174,7 +186,7 @@ _YouTube is a great way to learn to code, but make sure that you find high-quali
 
 <p align="right">(<a href="#readme-top">Back to top ⬆</a>)</p>
 
-### Podcasts
+## Podcasts
 
 | Website                                                | Description                                                                                                                                                                 |
 | ------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -189,7 +201,7 @@ _YouTube is a great way to learn to code, but make sure that you find high-quali
 
 <p align="right">(<a href="#readme-top">Back to top ⬆</a>)</p>
 
-### Online Communities
+## Online Communities
 
 _Platforms for programmers to connect, collaborate, and share knowledge with one another, regardless of their location or level of expertise._
 
@@ -203,7 +215,7 @@ _Platforms for programmers to connect, collaborate, and share knowledge with one
 
 <p align="right">(<a href="#readme-top">Back to top ⬆</a>)</p>
 
-### Open Source
+## Open Source
 
 _Software or projects whose source code is made freely available to the public, allowing anyone to view, use, modify, and distribute the software or project._
 
@@ -215,7 +227,7 @@ _Software or projects whose source code is made freely available to the public, 
 
 <p align="right">(<a href="#readme-top">Back to top ⬆</a>)</p>
 
-### Courses
+## Courses
 
 _Online teaching to supplement or structure your learning._
 
