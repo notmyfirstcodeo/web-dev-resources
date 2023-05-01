@@ -48,6 +48,7 @@
 - [Git and GitHub](#git--github)
 - [Frameworks](#frameworks)
 - [Web Design](#web-design)
+- [Accessibility](#accessibility)
 - [Roadmaps](#roadmaps)
 - [YouTube Channels](#youtube-channels)
 - [Podcasts](#podcasts)
@@ -106,6 +107,7 @@ _JavaScript is a programming language used to create dynamic and interactive web
 | [ES6 Features](https://es6-features.org/)                               | A comprehensive guide to the new features in ECMAScript 6 (ES6), the latest version of the JavaScript language. Includes examples and compatibility information.    |
 | [JSFiddle](https://jsfiddle.net/)                                       | An online editor for testing and sharing JavaScript, HTML, and CSS code snippets. Includes a console for debugging and collaboration tools for working with others. |
 | [DevDocs](https://devdocs.io/javascript/)                               | A comprehensive online documentation browser that includes documentation for JavaScript, as well as many other web development technologies.                        |
+| [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)         | A series of books diving deep into the core mechanisms of the JavaScript language.                                                                                  |
 
 <p align="right">(<a href="#readme-top">Back to top ⬆</a>)</p>
 
@@ -153,6 +155,23 @@ _Tools for creating visually appealing and user-friendly websites that provide a
 | [Coolors.co](https://coolors.co/)               | Color scheme generator tool that allows users to create and save custom color palettes.                                   |
 | [Dribbble.com](https://dribbble.com/)           | Community of designers sharing screenshots of their work, process, and projects.                                          |
 | [Behance.net](https://www.behance.net/)         | Online platform for showcasing and discovering creative work, including graphic design, photography, and web development. |
+
+<p align="right">(<a href="#readme-top">Back to top ⬆</a>)</p>
+
+## Accessibility
+
+_Improve website accessibility with these helpful tools for designing visually appealing and user-friendly interfaces._
+
+| Website                                                                       | Description                                                                                                                                                      |
+| ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [WebAIM](https://webaim.org/)                                                 | Provides comprehensive information on web accessibility with articles, tutorials, and checklists for developers.                                                 |
+| [Accessible Colors](https://accessible-colors.com/)                           | A tool that helps web developers design accessible color palettes for their websites that are easily distinguishable by people with color blindness.             |
+| [A11y](https://www.a11y.co/)                                                  | A collection of resources, including articles, checklists, and tools, to help web developers ensure their websites are accessible to everyone.                   |
+| [Google Fonts](https://fonts.google.com/)                                     | A collection of free and open-source fonts that are easy to read and accessible, making it easy for web developers to choose fonts that work well for all users. |
+| [Wave Web Accessibility Evaluation Tool](https://wave.webaim.org/)            | A free tool that checks web pages for accessibility issues and provides suggestions on how to fix them.                                                          |
+| [Adobe Color](https://color.adobe.com/create/color-accessibility)              | A color tool that allows designers to create color schemes and check their accessibility for people with color blindness.                                          |
+| [Recite Me](https://reciteme.com/)                                            | A web accessibility tool that enables visitors to customize websites according to their needs, including those with visual impairments, dyslexia, and other disabilities.  |
+
 
 <p align="right">(<a href="#readme-top">Back to top ⬆</a>)</p>
 
